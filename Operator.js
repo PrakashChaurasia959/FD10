@@ -24,13 +24,31 @@ console.log(a%b);
 a=9
 a++
 console.log(a);
+
 b=15
+
+num1=45
+console.log(num1++);
+console.log(num1);
+
+
+
 //--decremnet
 b--
 console.log(b);
 c=17
 
 console.log(c);
+num2=100
+console.log(num2--);
+console.log(num2--);
+console.log(num2--);
+console.log(num2);
+
+
+
+
+
 
 //**expontetial */
 exp=2**3
