@@ -9,7 +9,7 @@
     console.log(num);
     console.log(typeof(num));
     //boolean
-    let pass=true
+    let pass=false
     console.log(pass);
     //undefined
     let name;
